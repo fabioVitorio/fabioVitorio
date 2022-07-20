@@ -1,5 +1,5 @@
-### Ooi👋 eu sou o Fábio
-Atualmente cursando o 2° módulo do curso Téc. em Desenvolvimento de Sistemas - Senai e o 3° módulo do curso Téc. em Informática - Senac
+### Ooi 👋 eu sou o Fábio
+Atualmente cursando o 2° módulo do curso Téc. em Desenvolvimento de Sistemas - Senai e o 3° módulo do curso Téc. em Informática - Senac 🇧🇷
 ##
 
 <div align="center">
