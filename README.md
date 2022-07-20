@@ -1,4 +1,5 @@
-### Ooi👋 eu sou o Fábio, cursando o 2° módulo do curso Téc. em Desenvolvimento de Sistemas e o 3° módulo do curso Téc. em Informática
+### Ooi👋 eu sou o Fábio
+Atualmente cursando o 2° módulo do curso Téc. em Desenvolvimento de Sistemas - Senai e o 3° módulo do curso Téc. em Informática - Senac
 ##
 
 <div align="center">
@@ -10,7 +11,7 @@
 <br>
 
 
-### Tecnologias já estudadas
+### Tecnologias já estudadas nos cursos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="35" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -22,6 +23,6 @@
 
 ##
 
-<div>
+<div align="right">
   <a href="https://www.linkedin.com/in/f%C3%A1bio-vitorio-85a401238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
