@@ -1,11 +1,11 @@
-### Ooi 👋🏻 eu sou o Fábio 🤖
+<h1 align="center"> Ooi 👋🏻 eu sou o Fábio 🤖 </h1>
 Atualmente cursando 
 - 2° módulo do curso Téc. em Desenvolvimento de Sistemas - Senai CTTI
 - 3° módulo do curso Téc. em Informática - Senac Minas
 ##
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovitorio&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovitorio&layout=compact&langs_count=7&theme=white"/>
   <a href="https://github.com/fabioVitorio">
  
 </div>
