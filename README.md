@@ -13,7 +13,7 @@ Atualmente cursando
 <br>
 
 
-### Tecnologias já estudadas nos cursos
+### Tecnologias já estudadas
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
