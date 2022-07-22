@@ -1,4 +1,5 @@
-<h1 align="center"> Ooi 👋🏻 eu sou o Fábio 🤖 </h1>
+<h1 align="center"> Ooi 👋🏻 eu sou o Fábio 🤖 </h1> <br>
+
 Atualmente cursando 
 - 2° módulo do curso Téc. em Desenvolvimento de Sistemas - Senai CTTI
 - 3° módulo do curso Téc. em Informática - Senac Minas
