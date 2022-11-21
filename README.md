@@ -1,9 +1,7 @@
 <h1 align="center"> Ooi, eu sou o Fábio 🤖 </h1> <br>
-
-Atualmente cursando 
-- 3° módulo do curso Téc. em Desenvolvimento de Sistemas - Senai CTTI
-- 4° módulo do curso Téc. em Informática - Senac Minas
-##
+Formado em Téc. em Informática pelo Senac Minas <br>
+Atualmente cursando o 4° módulo do curso Téc. em Desenvolvimento de Sistemas pelo Senai CTTI
+<br><br><br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovitorio&layout=compact&langs_count=7&theme=white"/>
