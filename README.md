@@ -1,4 +1,6 @@
-<h1 align="center"> Oi, eu sou o Fábio 🤖 </h1> <br>
+<h1 align="center"> Oi, eu sou o Fábio 🤖 </h1>
+<p align="center"> Desenvolverdor Web/Mobile Junior</p>
+<br>
 ⏳Cursando⏳ 
 <br>
 ➡️Análise e desenvolvimento de sistemas  
