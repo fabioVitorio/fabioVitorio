@@ -1,7 +1,7 @@
 <h1 align="center"> Oi, eu sou o Fábio 🤖 </h1> <br>
 ⏳Cursando⏳ 
 <br>
-➡️Técnico em Desenvolvimento de sistemas  
+➡️Análise e desenvolvimento de sistemas  
 <br><br>
  
 🎓Formação🎓 
