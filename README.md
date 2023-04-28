@@ -35,6 +35,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="42" height="40"/>
   <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="37" height="45"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="mysql" width="47" height="47" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
