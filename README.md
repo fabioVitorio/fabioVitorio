@@ -14,9 +14,8 @@
 <br><br><br>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovitorio&layout=compact&langs_count=7&theme=white"/>
+  <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioVitorio&layout=demo"/>
   <a href="https://github.com/fabioVitorio">
- 
 </div>
 
 <br>
