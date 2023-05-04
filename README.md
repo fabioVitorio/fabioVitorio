@@ -1,16 +1,17 @@
 <h1 align="center"> Oi, eu sou o Fábio 🤖 </h1>
 <p align="center"> Desenvolverdor Web/Mobile Junior</p>
 <br>
-⏳Cursando⏳ 
-<br>
-➡️Análise e desenvolvimento de sistemas  
+
+🎓 Formação 🎓 
 <br><br>
+✅ Técnico em Desenvolvimento de sistemas 
+<br>
+✅ Técnico em informática
+<br>
+⏳ Análise e desenvolvimento de sistemas  
+
  
-🎓Formação🎓 
-<br>
-✅Técnico em Desenvolvimento de sistemas 
-<br>
-✅Técnico em informática
+
 <br><br><br>
 
 <div align="center">
