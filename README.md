@@ -4,11 +4,11 @@
 
 🎓 Formação 🎓 
 <br><br>
-✅ Técnico em Desenvolvimento de sistemas 
+✅ <strong> Técnico: </strong> Desenvolvimento de sistemas - SENAI
 <br>
-✅ Técnico em informática
+✅ <strong> Técnico: </strong> Informática - SENAC
 <br>
-⏳ Análise e desenvolvimento de sistemas  
+⏳ <strong> Tecnólogo: </strong> Análise e Desenvolvimento de Sistemas - UNA  
 
  
 
