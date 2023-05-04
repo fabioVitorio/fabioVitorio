@@ -23,25 +23,25 @@
   
 ### Foco em desenvolvimento Mobile
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="42" height="40"/>
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="37" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="38" height="35"/>
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="32" height="40"/>
 </p>
   
 #
 
 ### Tecnologias já estudadas
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="42" height="40"/>
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="37" height="45"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="mysql" width="47" height="47" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="38" height="35"/>
+  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="32" height="40"/>
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="mysql" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="60" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" alt="bootstrap" width="48" height="48"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="63" height="63" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="55" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" alt="bootstrap" width="43" height="43"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" /> 
 </p>
 
 
