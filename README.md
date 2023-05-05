@@ -2,17 +2,15 @@
 <p align="center"> Desenvolverdor Web/Mobile Junior</p>
 <br>
 
-🎓 Formação 🎓 
+🔰<strong> Formação </strong>🔰
+<br>
+✅ <strong> Técnico: </strong> Desenvolvimento de sistemas
+<br>
+✅ <strong> Técnico: </strong> Informática
+<br>
+🔄 <strong> Tecnólogo: </strong> Análise e Desenvolvimento de Sistemas
+
 <br><br>
-✅ <strong> Técnico: </strong> Desenvolvimento de sistemas - SENAI
-<br>
-✅ <strong> Técnico: </strong> Informática - SENAC
-<br>
-⏳ <strong> Tecnólogo: </strong> Análise e Desenvolvimento de Sistemas - UNA  
-
- 
-
-<br><br><br>
 
 <div align="center">
   <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioVitorio&layout=demo"/>
