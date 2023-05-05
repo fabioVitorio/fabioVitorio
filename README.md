@@ -8,16 +8,14 @@
 </div>
 
 <br><br>
-  
-🔰<strong> Formação </strong>🔰
-<br>
+#
+### Formação
 ✅ <strong> Técnico: </strong> Desenvolvimento de sistemas
 <br>
 ✅ <strong> Técnico: </strong> Informática
 <br>
 🔄 <strong> Tecnólogo: </strong> Análise e Desenvolvimento de Sistemas
-
-<br><br>
+#
 
 ### Foco em desenvolvimento Mobile
 <p align="left"> 
