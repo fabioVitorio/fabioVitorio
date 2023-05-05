@@ -9,7 +9,7 @@
 
 <br><br>
 #
-### Formação
+### ➡️ Formação
 ✅ <strong> Técnico: </strong> Desenvolvimento de sistemas
 <br>
 ✅ <strong> Técnico: </strong> Informática
@@ -17,7 +17,7 @@
 🔄 <strong> Tecnólogo: </strong> Análise e Desenvolvimento de Sistemas
 #
 
-### Foco em desenvolvimento Mobile
+### ➡️ Foco em desenvolvimento Mobile
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="38" height="35"/>
@@ -26,7 +26,7 @@
   
 #
 
-### Tecnologias já estudadas
+### ➡️ Tecnologias já estudadas
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="38" height="35"/>
