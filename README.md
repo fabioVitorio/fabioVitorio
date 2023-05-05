@@ -34,11 +34,11 @@
   <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="32" height="40"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="42" height="42" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" alt="php" width="55" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-  <img src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png" alt="bootstrap" width="43" height="43"/>
-  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="43" height="43" /> 
+  <img src="https://php-cl.com/img/CORE-PHP-ADVANCED-20210817.png" alt="php" width="45" height="45"/>
+  <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="45" height="45" />
+  <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="html5" width="45" height="45"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="45" height="45"/>
+  <img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-28.jpg" alt="bootstrap" width="45" height="45"/> 
 </p>
 
 
