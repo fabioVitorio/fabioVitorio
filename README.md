@@ -2,6 +2,13 @@
 <p align="center"> Desenvolverdor Web/Mobile Junior</p>
 <br>
 
+<div align="center">
+  <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioVitorio&layout=demo"/>
+  <a href="https://github.com/fabioVitorio">
+</div>
+
+<br><br>
+  
 🔰<strong> Formação </strong>🔰
 <br>
 ✅ <strong> Técnico: </strong> Desenvolvimento de sistemas
@@ -12,13 +19,6 @@
 
 <br><br>
 
-<div align="center">
-  <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioVitorio&layout=demo"/>
-  <a href="https://github.com/fabioVitorio">
-</div>
-
-<br>
-  
 ### Foco em desenvolvimento Mobile
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
