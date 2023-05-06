@@ -37,8 +37,8 @@
   <img src="https://php-cl.com/img/CORE-PHP-ADVANCED-20210817.png" alt="php" width="45" height="45"/>
   <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="45" height="45" />
   <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/html5-512.png" alt="html5" width="45" height="45"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="45" height="45"/>
-  <img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-28.jpg" alt="bootstrap" width="45" height="45"/> 
+  <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/css-3-512.png" alt="css3" width="43" height="43"/>
+  <img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-28.jpg" alt="bootstrap" width="43" height="43"/> 
 </p>
 
 
