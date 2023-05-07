@@ -1,5 +1,5 @@
-<h1 align="center">🤖 Oi, eu sou o Fábio 🤖 </h1>
-<p align="center">🔹 Desenvolverdor Web/Mobile Junior 🔹</p>
+<h1 align="center"> Oi, eu sou o Fábio 🤖 </h1>
+<p align="center"> Desenvolverdor Web/Mobile Junior </p>
 <br>
 
 <div align="center">
