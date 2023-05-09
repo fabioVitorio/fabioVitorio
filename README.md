@@ -14,7 +14,7 @@
 ><br>
 >✅  **Técnico:** Informática
 ><br>
->🔄 **Tecnólogo:** Análise e Desenvolvimento de Sistemas
+>🟩 **Tecnólogo:** Análise e Desenvolvimento de Sistemas
 #
 > ### ➡️ Foco em desenvolvimento Mobile
 ><p align="left"> 
