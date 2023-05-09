@@ -40,7 +40,7 @@
 
 
 <div align="right">
- <a href="https://drive.google.com/file/d/1c9gUhfLNu97g6_YfT4N3veB2J3Mt1_5c/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-green" height="28" target="_blank"></a> 
+ <a href="https://drive.google.com/file/d/1c9gUhfLNu97g6_YfT4N3veB2J3Mt1_5c/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%329542?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/f%C3%A1bio-vitorio-85a401238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
