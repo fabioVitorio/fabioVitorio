@@ -19,7 +19,7 @@
 
 ### ➡️ Foco em desenvolvimento Mobile
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+  <img src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/javascript.png" alt="javascript" width="35" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="38" height="35"/>
   <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="32" height="40"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="42" height="42" />
@@ -29,7 +29,7 @@
 
 ### ➡️ Tecnologias já estudadas
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/>
+  <img src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/javascript.png" alt="javascript" width="35" height="35"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="38" height="35"/>
   <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="32" height="40"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="42" height="42" />
