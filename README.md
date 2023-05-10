@@ -14,7 +14,7 @@
 ><br>
 >✅  **Técnico:** Informática
 ><br>
->🟩 **Tecnólogo:** Análise e Desenvolvimento de Sistemas <img height="15em" src="https://www.fwc.com.br/wp-content/plugins/simple-job-board/public/images/loader.gif"/>
+>🟩 **Tecnólogo:** Análise e Desenvolvimento de Sistemas
 #
 > ### ➡️ Foco em desenvolvimento Mobile
 ><p align="left"> 
