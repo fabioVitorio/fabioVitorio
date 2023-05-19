@@ -12,11 +12,9 @@
 <br><br>
 #
 > ### ➡️ Formação
->✅ **Técnico:** Desenvolvimento de sistemas
-><br>
->✅  **Técnico:** Informática
-><br>
->🟩 **Tecnólogo:** Análise de Sistemas
+>- [x] **Técnico:** Desenvolvimento de sistemas
+>- [x] **Técnico:** Informática
+>- [ ] **Tecnólogo:** Análise de Sistemas
 #
 > ### ➡️ Foco em desenvolvimento Mobile
 ><p align="left"> 
