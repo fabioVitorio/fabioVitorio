@@ -1,6 +1,6 @@
-<h1 align="center"> Oi, eu sou o Fábio 🤖 </h1>
+<h3 align="center"> Oi, eu sou o Fábio 🤖 </h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=D2D2D2&width=170&height=30&lines=Web%2FMobile+Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=D2D2D2&width=150&height=30&lines=Web%2FMobile+Developer"/>
 </div>
 <br>
 
