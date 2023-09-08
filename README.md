@@ -14,7 +14,7 @@
 > ### ➡️ Formação
 >- [x] **Técnico:** Desenvolvimento de sistemas
 >- [x] **Técnico:** Informática
->- [ ] **Tecnólogo:** Análise de Sistemas
+>- [ ] **Bacharelado:** Ciência da computação
 #
 > ### ➡️ Foco em desenvolvimento Mobile
 ><p align="left"> 
