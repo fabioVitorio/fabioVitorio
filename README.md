@@ -38,6 +38,12 @@
   ><img src="https://icon-library.com/images/bootstrap-icon-png/bootstrap-icon-png-28.jpg" alt="bootstrap" width="35" height="35"/> 
 </p>
 
+#
+> ### ➡️ Redes de computadores
+><p align="left"> 
+  ><img src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177" width="35" height="35"/>
+  ><img src="https://www.ccnahub.com/wp-content/uploads/2013/10/TCPIPRN.png" alt="tcpip" width="37" height="37"/>
+</p>
 
 <div align="right">
  <a href="https://drive.google.com/file/d/1i4ObgA6Hvek3zYHzVgYNjC4YC5qt1J1k/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%329542?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
