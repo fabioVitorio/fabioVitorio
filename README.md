@@ -41,8 +41,9 @@
 #
 > ### ➡️ Redes de computadores
 ><p align="left"> 
-  ><img src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177" width="35" height="35"/>
-  ><img src="https://www.ccnahub.com/wp-content/uploads/2013/10/TCPIPRN.png" alt="tcpip" width="37" height="37"/>
+  ><img src="https://merch.mikrotik.com/cdn/shop/files/512.png?v=1657867177" width="37" height="37"/>
+  ><img src="https://www.ccnahub.com/wp-content/uploads/2013/10/TCPIPRN.png" alt="tcpip" width="39" height="39"/>
+  ><img src="https://assets-global.website-files.com/63eef1be981a383fb127661f/6470af726e7f562eb85dd604_Frame%2096236.png" alt="cisco" width="39" height="39"/>
 </p>
 
 <div align="right">
