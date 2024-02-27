@@ -15,17 +15,8 @@
 >- [x] **Técnico:** Desenvolvimento de sistemas
 >- [x] **Técnico:** Informática
 >- [ ] **Bacharelado:** Ciência da computação
-#
-> ### ➡️ Foco em desenvolvimento Mobile
-><p align="left"> 
-  ><img src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/javascript.png" alt="javascript" width="29" height="29"/>
-  ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="33" height="30"/>
-  ><img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="firebase" width="28" height="31"/>
-  ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="33" height="33" />
-</p>
-  
-#
-> ### ➡️ Tecnologias já estudadas
+# 
+> ### ➡️ Tecnologias base
 ><p align="left"> 
   ><img src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/javascript.png" alt="javascript" width="29" height="29"/>
   ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="33" height="30"/>
