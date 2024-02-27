@@ -1,6 +1,6 @@
 ### <div align="center"> Hi, I'm [Fábio](https://fabio-vitorio.netlify.app) 🤖 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=D2D2D2&width=150&height=30&lines=Web%2FMobile+Developer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=D2D2D2&width=110&height=30&lines=Web+Developer"/>
 </div>
 <br>
 
