@@ -20,8 +20,13 @@
 ><p align="left"> 
   ><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="35" height="35" />
   ><img src="https://github.com/micaeliteixeira/micaeliteixeira/blob/master/icons/javascript.png" alt="javascript" width="35" height="35"/>
+  ><img src="https://hubextech.com/assets/images/vue/vujS.png" alt="vue" width="38" height="38"/>
   ><img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-oq5bc0bt.png" alt="php" width="36" height="36"/>
+  ><img src="https://assets.zabbix.com/img/brands/laravel.svg" alt="laravel" width="36" height="36" />
   ><img src="https://pngimg.com/uploads/mysql/mysql_PNG36.png" alt="mysql" width="39" height="39" />
+  ><img src="https://static-00.iconduck.com/assets.00/postgresql-icon-256x256-zgd80y9i.png" alt="postgres" width="39" height="39" />
+  ><img src="https://images.icon-icons.com/2699/PNG/512/docker_tile_logo_icon_168248.png" alt="docker" width="36" height="36" />
+  
 </p>
 
 
