@@ -26,7 +26,7 @@
 
 
 <div align="right">
- <a href="https://drive.google.com/file/d/1i4ObgA6Hvek3zYHzVgYNjC4YC5qt1J1k/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%329542?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
+ <a href="https://drive.google.com/file/d/1DIBdLGOq-hH8NNkAG3cvnIDDwRf17gLk/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-%329542?style=for-the-badge&logo=&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/fabio-vitorio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
